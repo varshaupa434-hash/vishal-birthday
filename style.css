@@ -127,7 +127,7 @@ h1 {
   width: 300px;
   height: auto;
   border-radius: 20px;
-  box-shadow: 0 8px 20px rgba(255, 105, 180, 0.6);
+  box-shadow: 0 8px 20px rgba(30, 30, 30, 1);
   margin: 20px auto;
   display: block;
   transition: transform 0.3s ease;
